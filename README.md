@@ -24,8 +24,8 @@ You can run it on ios devices
 > properly if you are running this
 > application on AVD (android virtual devices.)
 
-#Description
+# Description
 
 A simple react-native application, that uses Air Visual API for delivering accurate data. This application was build for learning purpose
 
-| ![](assets/img1.png)  | ![](assets/img2.png)  | ![](assets/img3.png)  |
+| ![](assets/img1.jpg)  | ![](assets/img2.jpg)  | ![](assets/img3.jpg)  |
